@@ -172,7 +172,7 @@ class ImageScalerApp:
         tech_label.pack(side="left", padx=5)
 
         # Version
-        version_label = tk.Label(footer_frame, text="v1.0",
+        version_label = tk.Label(footer_frame, text="v1.2",
                                  font=("Arial", 8), bg="#2c3e50", fg="#7f8c8d")
         version_label.pack(side="right", padx=20)
 
